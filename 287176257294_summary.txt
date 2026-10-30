@@ -1,0 +1,37 @@
+========== BANK ACCOUNT STATEMENT ==========
+
+CUSTOMER ID       :: 55ec5d98-a13e-4864-a670-518dc4a0d5fa
+ACCOUNT NUMBER    :: 287176257294
+CUSTOMER NAME     :: sanjay
+CUSTOMER CITY     :: surat
+MOBILE NUMBER     :: 1231231321
+ACCOUNT TYPE      :: current
+OPENING BALANCE   :: 31000
+OPENING DATE      :: 2026-10-30 12:03:08.493441
+
+========== TRANSACTION HISTORY ==========
+------------------------------------------
+TYPE       :: deposit
+AMOUNT     :: 10000
+DATE/TIME  :: 2026-10-30 12:03:36.435528
+------------------------------------------
+TYPE       :: withdraw
+AMOUNT     :: 1000
+DATE/TIME  :: 2026-10-30 12:04:50.692752
+------------------------------------------
+TYPE       :: deposit
+AMOUNT     :: 2000
+DATE/TIME  :: 2026-10-30 12:08:59.919447
+------------------------------------------
+TYPE       :: loan credited
+AMOUNT     :: 10000
+DATE/TIME  :: 2026-10-30 12:25:07.689175
+
+========== LOAN DETAILS ==========
+------------------------------------------
+LOAN AMOUNT    :: 10000
+INTEREST RATE  :: 7%
+DURATION       :: 5 years
+INTEREST       :: 3500.0
+TOTAL PAYABLE  :: 13500.0
+STATUS         :: Active
