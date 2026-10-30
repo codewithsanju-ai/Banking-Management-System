@@ -1,25 +1,4 @@
 # 🏦 Banking Management System
-
-```{=html}
-<p align="center">
-```
-`<strong>`{=html}A Python-based, menu-driven banking application built
-with Object-Oriented Programming and core Python
-concepts.`</strong>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white">`{=html}
-`<img alt="Project" src="https://img.shields.io/badge/Project-Console%20Application-2ea44f">`{=html}
-`<img alt="Storage" src="https://img.shields.io/badge/Storage-In%20Memory-orange">`{=html}
-`<img alt="Purpose" src="https://img.shields.io/badge/Purpose-Learning-informational">`{=html}
-```{=html}
-</p>
-```
-
 ------------------------------------------------------------------------
 
 ## 📌 About The Project
@@ -394,18 +373,11 @@ enter real personal, banking, or financial information.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Sanjay Kushwaha**
 
--   GitHub: `<your-github-profile-link>`
--   Repository: `<your-repository-link>`
+-   GitHub: `https://github.com/codewithsanju-ai/`
+-   Repository: `https://github.com/codewithsanju-ai/Banking-Management-System`
 
 ------------------------------------------------------------------------
 
-```{=html}
-<p align="center">
-```
-⭐ If this project helped you practice Python, consider giving the
-repository a star!
-```{=html}
-</p>
-```
+
